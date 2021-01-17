@@ -10,4 +10,4 @@ A JavaScript game to mock Chen Rui, CEO of Bilibili. Built with stolen codes and
 
 *  ![tonikolaba](https://github.com/tonikolaba)
 
-![Alt text](https://github.com/tonikolaba/download/blob/master/info/artofsoullogoVOG.png?raw=true"ArtofSoul")
+![Alt text](https://github.com/Tup0lev/AngryChenRui/blob/master/FLAG.jpg?raw=true"ArtofSoul")
